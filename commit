@@ -1,0 +1,6 @@
+git add .
+git commit -m "Criar site sobre cores"
+git push origin main
+git add .
+git commit -m "Adicionar imagens ao site"
+git push origin main
