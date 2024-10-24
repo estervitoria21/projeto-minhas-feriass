@@ -22,7 +22,7 @@
         <button id="changeColorButton">Mudar Cor de Fundo</button>
     </main>
     <footer>
-        <p>Desenvolvido por [Seu Nome]</p>
+        <p>Desenvolvido por Ester </p>
     </footer>
     <script src="js/scripts.js"></script>
 </body>
